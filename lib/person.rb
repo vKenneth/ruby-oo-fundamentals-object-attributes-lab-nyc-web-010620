@@ -3,4 +3,4 @@ class Person
     @name = name
   end
   
-  
+  def initialize(first_job, )
